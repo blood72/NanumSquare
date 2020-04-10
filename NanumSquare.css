@@ -1,0 +1,35 @@
+/* NanumSquare Light */
+@font-face {
+    font-family: 'Nanum Square';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: local('NanumSquare Light'), url(./NanumSquareL.woff) format('woff');
+}
+
+/* NanumSquare Regular */
+@font-face {
+    font-family: 'Nanum Square';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('NanumSquare Regular'), local('NanumSquare'), url(./NanumSquareR.woff) format('woff');
+}
+
+/* NanumSquare Bold */
+@font-face {
+    font-family: 'Nanum Square';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local('NanumSquare Bold'), url(./NanumSquareB.woff) format('woff');
+}
+
+/* NanumSquare ExtraBold */
+@font-face {
+    font-family: 'Nanum Square';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: local('NanumSquare ExtraBold'), url(./NanumSquareEB.woff) format('woff');
+}
